@@ -1,2 +1,2 @@
 # Collegetrip PHP+Mysql Project
-<img src="Collegetrip/Screenshot.PNG">
+<img src="Collegetrip/Screenshot.png">
