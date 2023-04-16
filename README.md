@@ -1,1 +1,1 @@
-# Collegetrip
+# Collegetrip PHP+Mysql Project
