@@ -1,2 +1,2 @@
 # SITRC Collegetrip PHP+Mysql Project
-<img src="Collegetrip/Screenshot.png">
+<img src="Screenshot.png">
